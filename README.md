@@ -1,6 +1,6 @@
 # N-ary Tree Analyzer & Complexity Benchmark
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg) 
 
 A comprehensive Python tool designed to explore, visualize, and analyze **N-ary Trees** (specifically Quadtrees, N=4). 
 
